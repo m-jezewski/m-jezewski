@@ -2,4 +2,4 @@
 
 LinkedIn: https://www.linkedin.com/in/maciej-jezewski/ <br />
 Email:  mac.jezewski@gmail.com <br />
-Website: m-jezewski.github.io
+Website: [https://www.m-jezewski.github.io](https://m-jezewski.github.io/)
